@@ -24,7 +24,7 @@
 *  International Registered Trademark & Property of PrestaShop SA
 */
 
-if (!defined('_PS_VERSION_'))
+if (!defined('_TB_VERSION_'))
 	exit;
 
 class GraphNvD3 extends ModuleGraphEngine
@@ -42,8 +42,8 @@ class GraphNvD3 extends ModuleGraphEngine
 
 		$this->name = 'graphnvd3';
 		$this->tab = 'administration';
-		$this->version = '1.5.0';
-		$this->author = 'PrestaShop';
+		$this->version = '2.0.0';
+		$this->author = 'thirty bees';
 		$this->need_instance = 0;
 
 		Module::__construct();
