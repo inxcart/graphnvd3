@@ -29,11 +29,11 @@ if (!defined('_TB_VERSION_'))
 
 class GraphNvD3 extends ModuleGraphEngine
 {
-	private $_width;
-	private $_height;
-	private $_values;
-	private $_legend;
-	private $_titles;
+	protected $_width;
+	protected $_height;
+	protected $_values;
+	protected $_legend;
+	protected $_titles;
 
     function __construct($type = null)
     {
