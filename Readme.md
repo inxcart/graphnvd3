@@ -1,6 +1,7 @@
-> THIS MODULE IS DEPRECATED SINCE THIRTY BEES 1.0.4
-
 # NVD3 Charts
+
+Note: this module has been deprecated with [thirty bees](https://github.com/thirtybees/thirtybees)
+1.0.4 and integrated into the [statsmodule module](https://github.com/thirtybees/statsmodule).
 
 ## About
 
